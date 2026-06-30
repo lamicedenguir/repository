@@ -7,4 +7,5 @@ It is divided into 5 sub-repositories:
   - communication-press: contains captures of articles and social media posts about Dr. Denguir's work.
 
 All the content of this repository including text, graphics, datasets, media, codes, etc. are property of Dr. Eng. Lamice Denguir or their owning organization/company/institution that granted Dr. Denguir the publication. Original text, artwork and software are protected intellectual property. 
-If not mentioned in the corresponding folder, any material in this repository is subject to CC BY-NC-SA 4.0 Creative Commons License.
+If not mentioned in the corresponding folder, any material in this repository other than source code is subject to CC BY-NC-SA 4.0 Creative Commons License.
+All source code is subject to MIT License.
