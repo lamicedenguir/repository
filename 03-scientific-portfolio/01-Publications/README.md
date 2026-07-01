@@ -24,6 +24,8 @@ Materials Processing Technology, 248:143-160. https://doi.org/10.1016/j.jmatprot
 model for tool / material contact applied to surface integrity prediction in orthogonal cutting simulation, 
 Procedia CIRP, 58:572-577. https://doi.org/10.1016/j.procir.2017.03.229
 
+2017-STC-S_CIRPWinterMeeting: Denguir L.A., Outeiro J.C., Rech J., Fromentin G., Vignal V., Besnard R., 2017, On the relationship between the cutting process, surface integrity and the corrosion resistance of OFHC copper, 2017 CIRP Winter Meeting in Paris, France.
+
 2018-ProcediaCIRPfeatCheng: Cheng W., Outeiro J.C., Costes J.P., M’Saoubi R., Karaouni H., Denguir L., 
 Astakhov V., 2018, Constitutive model incorporating the strain-rate and state of stress effects for machining 
 simulation of titanium alloy Ti6Al4V, Procedia CIRP, 77:344-347. https://doi.org/10.1016/j.procir.2018.09.031
