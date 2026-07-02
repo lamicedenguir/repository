@@ -1,0 +1,15 @@
+
+2️⃣ Review Notes for Apple Reviewers
+
+Growing Journey is a private journaling application designed to help parents document a child's development.
+The app does not require an account and does not connect to any external servers. All data is stored locally on the user's device.
+
+When the app launches for the first time, the user is asked to create a 4-digit PIN to protect access to the journal.
+
+Main features:
+• Record daily, weekly, monthly, and yearly entries
+• Attach photos, videos, audio, and documents
+• Store school reports
+• Browse memories using the calendar or archive view
+
+If needed for testing, the reviewer can create any 4-digit PIN to unlock the app.
