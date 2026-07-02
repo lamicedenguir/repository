@@ -1,4 +1,4 @@
-# 🌱 Growing Journey - iOS and Android App
+# 🌱 Growing Journey - iOS and web App
 
 > **A privacy-first digital journal that helps parents preserve the memories, milestones, and everyday moments of childhood.**
 
@@ -72,8 +72,11 @@ Growing Journey is designed specifically for:
 
 - iPhone
 - iPad
+- Android Phones
 
 with an interface that adapts naturally to different screen sizes.
+Two versions were released: a web version and an iOS version. 
+The Android version is still in betha state.
 
 ---
 
