@@ -1,1 +1,1 @@
-This folder contains the full platform KS-Conference code.
+This folder contains the public part of the platform KS-Conference code.
