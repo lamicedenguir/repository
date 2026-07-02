@@ -2,6 +2,8 @@
 
 > **Read. Share. Grow.**
 
+"This project demonstrates my ability to use AI-assisted development to rapidly prototype, customize, debug, and deploy a production-ready web application while ensuring security, legal compliance, and user experience." Dr. Eng. Lamice Denguir.
+
 Tortoise is a free educational web application that encourages children to develop a love for reading by keeping track of the books they read, sharing reviews with friends, and participating in reading challenges in a safe online environment.
 
 🌐 **Live Application:** https://tortoise.lovable.app/
@@ -130,7 +132,7 @@ https://tortoise.lovable.app/legal
 
 ## Author
 
-**Dr. Lamice Denguir**
+**Dr. Eng. Lamice Denguir**
 
 Mechanical Engineer • Software Developer
 
