@@ -1,1 +1,0 @@
-Intelligent AR Metrology Assistant for Manufacturing Inspection
