@@ -13,7 +13,9 @@ For each project, the repository provides an overview of the problem addressed, 
   A web application designed to organize and manage scientific conferences, including participant remote attendance, program management, event communication, and conference replay.
 
 * **03 – Tortoise (2025)**
-  A youth-destined application exploring intelligent task management and human-centered software design.
+  A youth-destined application that encourages children to develop a love for reading 
+  by keeping track of the books they read, sharing reviews with friends, and 
+  participating in reading challenges in a safe online environment.
 
 * **04 – Growing Journey (2026)**
   A privacy-first cross-platform journaling application that helps parents document, organize, and preserve their child's developmental journey while keeping all personal data stored locally on the user's device.
