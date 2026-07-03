@@ -72,7 +72,6 @@ Growing Journey is designed specifically for:
 
 - iPhone
 - iPad
-- Android Phones
 
 with an interface that adapts naturally to different screen sizes.
 Two versions were released: a web version and an iOS version. 
