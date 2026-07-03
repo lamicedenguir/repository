@@ -1,3 +1,5 @@
+# AMM Internship – Introduction (2010)
+
 This section presents my technician internship completed at Ateliers Micro-Mécaniques (AMM), Tunisia, in 2010.
 This report concerns a study I conducted in AMM in 2010.
 
