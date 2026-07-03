@@ -1,25 +1,26 @@
-This folder contains the engineering projects portfolio of Dr. Eng. Lamice Denguir organized as follows:
+# Engineering Portfolio
 
-01-ENIM 2010: This folder contains full reports and presentations of mini-projects done as team work 
-between 2010 and 2012 when Lamice Denguir was a graduate student at the National School of Engineering of Monastir. 
+This section presents the major engineering projects carried out by Dr. Eng. Lamice Denguir throughout her academic, industrial, and entrepreneurial career. The projects are organized chronologically to illustrate the progressive development of her expertise in mechanical engineering, manufacturing processes, numerical modeling, and engineering innovation.
 
-02-AMS 2010: This folder contains the report and presentation related to the internship performed in the company 
-"Ateliers Mecaniques du Sahel"  AMS in Sousse, Tunisia in 2010. The internship object was the Contribution to the 
-Design of stainless-steel taps.
+## Portfolio Structure
 
-03-AMM 2011: This folder contains the report and presentation related to the internship performed in the company 
-"Ateliers MicroMecaniques" AMM in Teboulba, Tunisia in 2011. The internship object was the Optimization of the 
-cutting process for die machining.
+* **01 – ENIM (2010–2012)**
+  Team engineering projects completed during undergraduate studies at the National School of Engineering of Monastir (Tunisia).
 
-04-CIRP 2012: This folder contains the report and presentation related to the internship performed in the research
-laboratory LaBoMaP Cluny, France in 2012, for the International Academy of Production Engineering CIRP as part of a Robin Test in 
-2012 for the purpose of studying the Cutting edge preparation impact on tool wear during steel milling.
+* **02 – AMS (2010)**
+  Industrial internship focused on the design of stainless-steel taps at Ateliers Mécaniques du Sahel (Tunisia).
 
-05-CEA 2013: This folder contains all the public deliverables related to the pluri-annual project USI COR SURF performed
-mainly in LaBoMaP Cluny and ICB Dijon France, and occasionally in other labs for CEA Valduc as an AMVALOR engineer between 2013 and 2017.
+* **03 – AMM (2011)**
+  Industrial internship dedicated to the optimization of machining processes for die manufacturing at Ateliers MicroMécaniques (Tunisia).
 
-06-FaureciaCleanMobility 2017: This folder contains the public report related to the project Constitutive modelling of stainless steels used in exhaust systems for automotive applications performed in Faurecia Clean Mobility Bavans, France  between 2017 and 2018 as
-a GoConcept consultant engineer.
+* **04 – CIRP (2012)**
+  Research internship at LaBoMaP (France) contributing to an international CIRP Round Robin project on cutting-edge preparation and tool wear in milling.
 
-07-KS 2020: This folder contains information about the contribution of Dr. Denguir to the founding and development of the 
-startup Knowledge & Skills between 2020 and 2022.
+* **05 – CEA (2013–2017)**
+  Public deliverables from the USI COR SURF research program conducted for CEA Valduc, focusing on machining-induced surface integrity, material behavior, and corrosion resistance.
+
+* **06 – Faurecia Clean Mobility (2017–2018)**
+  Public documentation from the industrial R&D project on constitutive modeling of stainless steels for automotive exhaust systems.
+
+* **07 – Knowledge & Skills (2020–2022)**
+  Selected engineering and innovation projects related to the creation and development of the Knowledge & Skills startup.
