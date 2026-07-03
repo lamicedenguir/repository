@@ -1,4 +1,4 @@
-# 🌱 Growing Journey - iOS and web App
+# 🌱 Growing Journey - iOS App
 
 > **A privacy-first digital journal that helps parents preserve the memories, milestones, and everyday moments of childhood.**
 
