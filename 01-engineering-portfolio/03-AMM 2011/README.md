@@ -1,46 +1,67 @@
-## Part I – Manufacturing Processes at AMS
+# AMM Internship – Machining Process Optimization (2011)
 
-This study presents an overview of the company's manufacturing capabilities and production workflow, with particular emphasis on machining technologies.
+This section presents my technician internship completed at **Ateliers Micro-Mécaniques (AMM), Tunisia**, in 2011.
 
-Topics covered include:
+The internship was carried out within the CNC Machining Department under the supervision of a mechanical engineer. The project combined theoretical analysis in the Engineering Office with experimental investigations on a three-axis CNC machining center to optimize the manufacturing process of extrusion die components for the brick industry.
 
-* Conventional machining processes
-* CNC machining technologies
-* Machine architecture and operation
-* CNC programming principles
-* Cutting tools and metrology
-* Comparison between conventional and CNC manufacturing
-* Correlation between industrial practice and engineering theory
+The primary objective was to identify an optimal compromise between machining time and manufacturing cost while developing the complete technical and manufacturing documentation required for production.
 
-**Engineering Skills Demonstrated**
-
-* Manufacturing engineering
-* Machining processes
-* CNC technology
-* Production methods
-* Industrial metrology
-* Technical process analysis
+The work is organized into three complementary studies.
 
 ---
 
-## Part II – Gear Design, Standards & Manufacturing
+## Chapter I – Company Overview & Engineering Problem
 
-This technical study was developed as an engineering reference document describing the design and manufacturing principles of mechanical gears.
-
-The work includes:
-
-* Classification of gear types
-* Gear geometry
-* Design standards and engineering norms
-* Manufacturing methods
-* Selection of machining parameters
-* Industrial reference tables for gear production
+This chapter introduces the industrial environment, presents the company's manufacturing activities, and defines the engineering challenge addressed during the internship.
 
 **Engineering Skills Demonstrated**
 
-* Machine design
-* Mechanical transmission systems
-* Engineering standards
-* Technical documentation
-* Mechanical component selection
-* Engineering research and synthesis
+* Industrial manufacturing
+* Engineering problem definition
+* Production process analysis
+* Technical project planning
+
+---
+
+## Chapter II – Machining Theory & Optimization Methods
+
+This study reviews the fundamental mechanisms of metal cutting and investigates several methodologies used to optimize machining parameters, including:
+
+* COM Method
+* Design of Experiments (DOE)
+* Production Analysis Method
+
+**Engineering Skills Demonstrated**
+
+* Metal cutting theory
+* Manufacturing optimization
+* Design of Experiments (DOE)
+* Process engineering
+* Technical literature review
+
+---
+
+## Chapter III – Experimental Optimization
+
+This chapter presents the experimental work performed on a three-axis CNC machining center to evaluate and optimize cutting parameters.
+
+The study includes:
+
+* Analysis of machining conditions
+* Experimental evaluation of cutting parameters
+* Production performance assessment
+* Optimization using the Production Analysis Method
+* Development of the manufacturing process documentation
+* Preparation of operation sheets
+* CNC machining program development
+
+**Engineering Skills Demonstrated**
+
+* CNC machining
+* Experimental engineering
+* Process optimization
+* Manufacturing engineering
+* Production documentation
+* CNC programming
+* Engineering data analysis
+
