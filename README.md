@@ -1,4 +1,4 @@
-# Dr. Eng. Lamice Denguir – Engineering & Software Portfolio
+# Dr. Eng. Lamice Denguir – Professional Portfolio
 
 "Bridging engineering research and software innovation to build practical solutions for industry and society."
 
