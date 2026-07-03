@@ -28,7 +28,7 @@ A collection of my scientific contributions, including peer-reviewed publication
 
 Engineering tutorials, technical notes, and educational resources covering topics related to engineering, software development, and digital technologies.
 
-### 📰 Communication & Press
+### 📰 Recognition & Outreach
 
 Selected media coverage, interviews, articles, conference highlights, and social media communications featuring my professional activities and projects.
 
