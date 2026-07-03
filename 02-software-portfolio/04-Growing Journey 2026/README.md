@@ -170,4 +170,14 @@ https://github.com/lamicedenguir
 
 The source code in this repository is distributed under the **CC BY-NC-SA 4.0 License**.
 
-The project is shared for educational and portfolio purposes.
+The software is shared for educational and portfolio purposes.
+
+Commercial use and the creation of derivative works are not permitted without prior authorization.
+
+This folder contains the Apple Store application files produced by Dr. Eng. Lamice Denguir.
+
+The original iOS app source code can be downloaded from the latest Release.
+
+➡️ See Releases for the design source. or use this link: (https://github.com/lamicedenguir/repository/releases/tag/v2.0)
+
+The source code is the sole property of Dr. Eng. lamice Denguir. Please review the LICENSE file before use.
