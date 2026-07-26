@@ -6,6 +6,8 @@ Welcome to my professional GitHub portfolio.
 
 I am a Mechanical Engineer (PhD), researcher, software developer, and entrepreneur with experience spanning academic research, industrial R&D, scientific communication, and software engineering. Throughout my career, I have designed and led multidisciplinary projects at the intersection of manufacturing, computational modeling, artificial intelligence, and digital product development.
 
+Before exploring my repository, please visit <a href="https://lamicedenguir.vercel.app">https://lamicedenguir.vercel.app</a>
+
 This repository brings together the most significant outcomes of my professional journey, from scientific research and industrial engineering projects to modern software applications and technical documentation. It serves as a central hub where visitors can explore my work, understand my engineering approach, and access detailed documentation for each project.
 
 ## Repository Structure
